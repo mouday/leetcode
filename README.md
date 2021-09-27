@@ -1,5 +1,7 @@
 # LeetCode
 
+https://github.com/mouday/leetcode
+
 刷题记录
 
 - [1. 两数之和]([src/main/java/com/pengshiyu/Question1.java])
