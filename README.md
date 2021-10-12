@@ -13,4 +13,5 @@
 - [20. 有效的括号](src/main/java/com/pengshiyu/Question20.java)
 - [21. 合并两个有序链表](src/main/java/com/pengshiyu/Question21.java)
 - [26. 删除有序数组中的重复项](src/main/java/com/pengshiyu/Question26.java)
+- [27. 移除元素](src/main/java/com/pengshiyu/Question27.java)
 - [122. 买卖股票的最佳时机 II](src/main/java/com/pengshiyu/Question122.java)
